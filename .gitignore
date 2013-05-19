@@ -28,6 +28,7 @@ doc/api
 doc/app
 *.swp
 *~
+*.lock
 .DS_Store
 *.rbc
 *.sassc
